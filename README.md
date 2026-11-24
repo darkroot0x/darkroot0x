@@ -1,11 +1,11 @@
 # `DΛRKROOT`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Linux+%7C+Networking+%7C+Web+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3333&center=true&vCenter=true&width=550&lines=Cybersecurity+%26+Exploit+Developer;Malware+Development+%26+Research;Reverse+Engineering;Building+With+Code+%26+Curiosity" />
 </p>
 
 <p align="center">
-  <b>0x | ACCESS IS NEVER ACCIDENTAL.</b>
+  **0x | ACCESS IS NEVER ACCIDENTAL.**
 </p>
 
 ---
@@ -17,38 +17,61 @@ $ whoami
 DARKROOT
 
 $ cat about.txt
-Cybersecurity Student
-Interested in Ethical Hacking & Penetration Testing
-Exploring Linux, Networking & Web Security
-Always learning. Always exploring.
+Cybersecurity Enthusiast
+Exploit Development
+Malware Development & Research
+Reverse Engineering
+Ethical Hacking & Penetration Testing
+Software Development
 ```
 
 ### `01 / TECH STACK`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,github,vscode" />
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,js,cpp,c,bash" />
 </p>
 
-### `02 / AREAS OF INTEREST`
+**Tools & Platforms**
 
-- Ethical Hacking
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,docker" />
+</p>
+
+### `02 / CYBERSECURITY INTERESTS`
+
+- Exploit Development
+- Malware Development & Analysis
+- Reverse Engineering
+- Vulnerability Research
 - Penetration Testing
 - Web Application Security
-- Vulnerability Assessment
-- Bug Bounty
-- Linux & Networking
+- Binary Exploitation
+- Network Security
+- Bug Bounty Research
 
-### `03 / CURRENT MISSION`
+### `03 / DEVELOPMENT`
+
+- Java Development
+- Python Development
+- Node.js Development
+- C / C++ Programming
+- Bash Scripting
+- Automation & Security Tools
+
+### `04 / CURRENT MISSION`
 
 ```text
-[+] Learning Cybersecurity
-[+] Exploring Security Labs
-[+] Practicing Python & Bash
-[+] Improving Linux Skills
-[+] Building Security Projects
+[+] EXPLOIT DEVELOPMENT
+[+] MALWARE RESEARCH
+[+] REVERSE ENGINEERING
+[+] VULNERABILITY RESEARCH
+[+] SECURITY TOOL DEVELOPMENT
+[+] LOW-LEVEL PROGRAMMING
 ```
 
-### `04 / CONNECT`
+### `05 / CONNECT`
 
 <p align="center">
   <a href="https://github.com/darkroot0x">
@@ -59,9 +82,9 @@ Always learning. Always exploring.
 ---
 
 <p align="center">
-  <i>"Think like an attacker. Defend like a professional."</i>
+  <i>"Understand the system. Explore its weaknesses. Build better security."</i>
 </p>
 
 <p align="center">
-  <b>01000100 01000001 01010010 01001011 01010010 01001111 01001111 01010100</b>
+  **01000100 01000001 01010010 01001011 01010010 01001111 01001111 01010100**
 </p>
